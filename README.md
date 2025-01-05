@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prakash Mani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center" style="color: red;">A passionate frontend developer from India</h3>
 
 <h2 align="left">Connect with me: +91 8795901180</h2>
-<div><img src="https://thereadersea.com/wp-content/uploads/2023/05/mern-stack.png" width="100%" height="150px" alt=""></div>
 <p align="left"></p>
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
