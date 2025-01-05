@@ -4,7 +4,7 @@
 <h2 align="left">Connect with me: +91 8795901180</h2>
 <p align="left"></p>
 <h2 align="left">Languages and Tools:</h2>
-<table align="center">
+<table align="center" border-none>
       <tr>
         <td>
           <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
