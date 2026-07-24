@@ -108,11 +108,11 @@ Secure REST APIs, authentication, business logic, and database integrations.
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=prakash116&theme=transparent&hide_border=false&border=164E63&ring=06B6D4&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Prakash's contribution streak" />
+<img src="https://streak-stats.demolab.com?user=prakash116&hide_border=false&background=0D1117&border=164E63&stroke=164E63&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=E2E8F0&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Prakash's contribution streak" />
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prakash116&bg_color=00000000&color=cbd5e1&line=06b6d4&point=22d3ee&area=true&area_color=164e63&hide_border=false&custom_title=Contribution%20Graph" alt="Prakash's contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prakash116&bg_color=0d1117&color=e2e8f0&line=22d3ee&point=ffffff&area=true&area_color=0891b2&border_color=164e63&hide_border=false&custom_title=Contribution%20Graph" alt="Prakash's contribution graph" />
 
 </div>
 
