@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,45:0f172a,100:06b6d4&text=Prakash%20Mani&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20App%20Developer&descAlignY=58&descSize=19&animation=fadeIn)
+<img width="100%" src="./assets/profile-header.svg" alt="Prakash Mani — Full-Stack and Mobile App Developer" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=22D3EE&center=true&vCenter=true&random=false&width=650&lines=MERN+Stack+Developer;React+Native+Developer;Building+experiences+for+Web%2C+Android+%26+iOS;Turning+ideas+into+reliable+products" alt="Animated developer introduction" />
@@ -103,8 +103,8 @@ Secure REST APIs, authentication, business logic, and database integrations.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=prakash116&show_icons=true&rank_icon=github&theme=transparent&title_color=22d3ee&text_color=cbd5e1&icon_color=06b6d4&border_color=164e63&hide_border=false" alt="Prakash's GitHub statistics" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash116&layout=compact&langs_count=8&theme=transparent&title_color=22d3ee&text_color=cbd5e1&border_color=164e63&hide_border=false" alt="Prakash's most-used languages" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prakash116&theme=github_dark" alt="Prakash's GitHub statistics" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prakash116&theme=github_dark" alt="Prakash's repositories by language" />
 
 <br />
 
@@ -131,6 +131,6 @@ Secure REST APIs, authentication, business logic, and database integrations.
 
 Open to connecting, collaborating, and building useful products together.
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,55:0f172a,100:020617)
+<sub>Designed with care and built to keep evolving.</sub>
 
 </div>
