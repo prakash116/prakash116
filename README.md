@@ -14,6 +14,14 @@
 
 </div>
 
+<div align="center">
+
+### 🧠 Where ideas become intelligent experiences
+
+<img width="100%" src="./assets/ai-neural-brain.svg" alt="Animated AI neural brain representing creative engineering" />
+
+</div>
+
 ## 👋 About me
 
 ```javascript

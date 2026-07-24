@@ -1,0 +1,121 @@
+<svg width="1100" height="390" viewBox="0 0 1100 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Animated artificial intelligence neural brain</title>
+  <desc id="description">A futuristic glowing brain with animated neural pathways, orbiting particles, and developer technology labels.</desc>
+
+  <defs>
+    <linearGradient id="panel" x1="30" y1="15" x2="1070" y2="375" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset=".52" stop-color="#0B1120"/>
+      <stop offset="1" stop-color="#082F49"/>
+    </linearGradient>
+    <linearGradient id="neural" x1="360" y1="90" x2="735" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/>
+      <stop offset=".48" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+    <radialGradient id="coreGlow">
+      <stop stop-color="#22D3EE" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+    <clipPath id="brainClip">
+      <path d="M548 78C507 48 446 63 426 105C384 103 354 137 360 177C331 205 346 252 382 263C384 305 429 326 462 304C490 329 527 316 548 294C569 316 607 329 635 304C668 326 713 305 715 263C751 252 766 205 737 177C743 137 713 103 671 105C651 63 590 48 548 78Z"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1100" height="390" rx="24" fill="url(#panel)"/>
+  <rect x=".75" y=".75" width="1098.5" height="388.5" rx="23.25" stroke="#164E63" stroke-width="1.5"/>
+
+  <g opacity=".18" stroke="#38BDF8">
+    <path d="M0 70H210L255 115H326"/>
+    <path d="M0 325H185L235 275H330"/>
+    <path d="M1100 65H905L860 110H775"/>
+    <path d="M1100 330H920L870 280H770"/>
+    <circle cx="255" cy="115" r="4" fill="#22D3EE"/>
+    <circle cx="235" cy="275" r="4" fill="#22D3EE"/>
+    <circle cx="860" cy="110" r="4" fill="#22D3EE"/>
+    <circle cx="870" cy="280" r="4" fill="#22D3EE"/>
+  </g>
+
+  <ellipse cx="548" cy="198" rx="245" ry="173" fill="url(#coreGlow)">
+    <animate attributeName="opacity" values=".55;1;.55" dur="3.8s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="548" cy="198" rx="219" ry="151" stroke="#0891B2" stroke-opacity=".35" stroke-dasharray="5 14">
+    <animateTransform attributeName="transform" type="rotate" from="0 548 198" to="360 548 198" dur="22s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="548" cy="198" rx="245" ry="173" stroke="#A78BFA" stroke-opacity=".18" stroke-dasharray="2 18">
+    <animateTransform attributeName="transform" type="rotate" from="360 548 198" to="0 548 198" dur="28s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <g clip-path="url(#brainClip)">
+    <path d="M548 78C507 48 446 63 426 105C384 103 354 137 360 177C331 205 346 252 382 263C384 305 429 326 462 304C490 329 527 316 548 294C569 316 607 329 635 304C668 326 713 305 715 263C751 252 766 205 737 177C743 137 713 103 671 105C651 63 590 48 548 78Z" fill="#071426" stroke="url(#neural)" stroke-width="3"/>
+    <g stroke="url(#neural)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".9">
+      <path d="M548 81V295"/>
+      <path d="M426 105L470 131L510 106L548 145L590 107L632 134L671 105"/>
+      <path d="M365 176L412 184L448 151L489 179L548 145L605 180L649 151L737 177"/>
+      <path d="M382 263L425 240L472 269L511 227L548 251L590 226L631 268L715 263"/>
+      <path d="M412 184L425 240M448 151L472 269M489 179L511 227M605 180L590 226M649 151L631 268"/>
+      <path d="M360 207L400 215L437 202L476 214L511 191L548 206L588 191L627 213L668 201L750 208"/>
+    </g>
+    <g fill="#22D3EE" filter="url(#glow)">
+      <circle cx="426" cy="105" r="4"/><circle cx="470" cy="131" r="4"/><circle cx="510" cy="106" r="4"/>
+      <circle cx="548" cy="145" r="5"/><circle cx="590" cy="107" r="4"/><circle cx="632" cy="134" r="4"/>
+      <circle cx="412" cy="184" r="4"/><circle cx="448" cy="151" r="4"/><circle cx="489" cy="179" r="5"/>
+      <circle cx="605" cy="180" r="5"/><circle cx="649" cy="151" r="4"/><circle cx="425" cy="240" r="4"/>
+      <circle cx="472" cy="269" r="4"/><circle cx="511" cy="227" r="5"/><circle cx="548" cy="251" r="5"/>
+      <circle cx="590" cy="226" r="5"/><circle cx="631" cy="268" r="4"/><circle cx="668" cy="201" r="4"/>
+      <animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite"/>
+    </g>
+    <g fill="none" stroke="#F8FAFC" stroke-width="3" stroke-linecap="round" stroke-dasharray="5 190">
+      <path pathLength="200" d="M426 105L470 131L510 106L548 145L605 180L649 151L737 177">
+        <animate attributeName="stroke-dashoffset" values="205;0" dur="2.8s" repeatCount="indefinite"/>
+      </path>
+      <path pathLength="200" d="M382 263L425 240L472 269L511 227L548 251L590 226L631 268L715 263">
+        <animate attributeName="stroke-dashoffset" values="0;-205" dur="3.2s" repeatCount="indefinite"/>
+      </path>
+    </g>
+  </g>
+
+  <g filter="url(#glow)">
+    <circle cx="329" cy="199" r="5" fill="#A78BFA">
+      <animateTransform attributeName="transform" type="rotate" from="0 548 198" to="360 548 198" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="548" cy="47" r="4" fill="#22D3EE">
+      <animateTransform attributeName="transform" type="rotate" from="120 548 198" to="480 548 198" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="793" cy="198" r="5" fill="#34D399">
+      <animateTransform attributeName="transform" type="rotate" from="240 548 198" to="600 548 198" dur="10s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g font-family="Consolas, 'Courier New', monospace" font-size="14">
+    <g fill="#94A3B8">
+      <text x="65" y="132">&lt;creative_engineer /&gt;</text>
+      <text x="65" y="162" fill="#22D3EE">ideas → architecture</text>
+      <text x="65" y="192">architecture → code</text>
+      <text x="65" y="222" fill="#34D399">code → experiences</text>
+    </g>
+    <g text-anchor="end">
+      <text x="1035" y="132" fill="#A78BFA">REACT_NATIVE</text>
+      <text x="1035" y="162" fill="#22D3EE">MERN_STACK</text>
+      <text x="1035" y="192" fill="#34D399">REST_APIs</text>
+      <text x="1035" y="222" fill="#F59E0B">SHIP_VALUE</text>
+    </g>
+  </g>
+
+  <g text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">
+    <text x="550" y="354" fill="#F8FAFC" font-size="17" font-weight="600" letter-spacing="4">THINK  •  BUILD  •  EVOLVE</text>
+    <rect x="406" y="369" width="288" height="2" rx="1" fill="url(#neural)">
+      <animate attributeName="opacity" values=".3;1;.3" dur="2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
