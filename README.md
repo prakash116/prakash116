@@ -128,17 +128,17 @@ Secure REST APIs, authentication, business logic, and database integrations.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prakash_Mani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakashmani87/)
-[![Gmail](https://img.shields.io/badge/Gmail-prakashmanig000-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakashmanig000@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-prakash._mani-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prakash._mani/)
-[![Facebook](https://img.shields.io/badge/Facebook-Prakash_Mani-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/prakash.mani.98478672)
+<img width="100%" src="./assets/connect-terminal.svg" alt="Let's build something meaningful together" />
 
 <br />
 
-### 💡 “First, solve the problem. Then, write the code.”
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a)](https://www.linkedin.com/in/prakashmani87/)
+[![Gmail](https://img.shields.io/badge/GMAIL-SAY_HELLO-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a)](mailto:prakashmanig000@gmail.com)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f172a)](https://www.instagram.com/prakash._mani/)
+[![Facebook](https://img.shields.io/badge/FACEBOOK-CONNECT-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0f172a)](https://www.facebook.com/prakash.mani.98478672)
 
-Open to connecting, collaborating, and building useful products together.
+<br /><br />
 
-<sub>Designed with care and built to keep evolving.</sub>
+<sub>⚡ Designed with curiosity, built with purpose, and always evolving.</sub>
 
 </div>
