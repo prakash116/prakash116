@@ -1,149 +1,136 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Prakash+Mani;Full+Stack+MERN+Developer;React+Native+App+Developer;3%2B+Years+of+Experience;Building+RestoCare+Apps+%F0%9F%93%B1" alt="Typing SVG" />
+![Header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,45:0f172a,100:06b6d4&text=Prakash%20Mani&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20App%20Developer&descAlignY=58&descSize=19&animation=fadeIn)
 
-<h3>🚀 Full Stack Developer | MERN Stack | React Native (Android & iOS)</h3>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=22D3EE&center=true&vCenter=true&random=false&width=650&lines=MERN+Stack+Developer;React+Native+Developer;Building+experiences+for+Web%2C+Android+%26+iOS;Turning+ideas+into+reliable+products" alt="Animated developer introduction" />
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=prakash116&label=Profile%20Views&color=00d9ff&style=flat" alt="profile views" />
+<br />
+
+[![Profile views](https://komarev.com/ghpvc/?username=prakash116&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge)](https://github.com/prakash116)
+[![GitHub followers](https://img.shields.io/github/followers/prakash116?label=FOLLOWERS&style=for-the-badge&color=0e7490&labelColor=0f172a)](https://github.com/prakash116?tab=followers)
+[![Email](https://img.shields.io/badge/LET'S_TALK-EMAIL-06b6d4?style=for-the-badge&labelColor=0f172a&logo=gmail&logoColor=white)](mailto:prakashmanig000@gmail.com)
 
 </div>
 
----
-
-## 👨‍💻 About Me
+## 👋 About me
 
 ```javascript
 const prakash = {
-    role: "Full Stack & Mobile App Developer",
-    company: "Restro Edge Pvt. Ltd.",
-    experience: "3+ Years",
-    location: "India 🇮🇳",
-    webStack: ["MongoDB", "Express.js", "React.js", "Node.js"],
-    mobileStack: ["React Native", "Android", "iOS"],
-    currentProjects: ["RestoCare Customer App", "RestoCare Partner App"],
-    stateManagement: ["Redux", "Redux Toolkit", "Context API"],
-    funFact: "I turn ☕ into code!"
+  title: "Full-Stack & Mobile App Developer",
+  company: "Restro Edge Pvt. Ltd.",
+  experience: "3+ years",
+  focus: ["MERN Stack", "React Native", "REST APIs"],
+  platforms: ["Web", "Android", "iOS"],
+  currentlyBuilding: ["RestoCare Customer App", "RestoCare Partner App"],
+  mindset: "Build clean. Ship value. Keep learning."
 };
 ```
 
-- 💼 Currently working at **Restro Edge Pvt. Ltd.**
-- 📱 Building **RestoCare** — Customer App & Partner App (**React Native** for Android & iOS)
-- 💻 **3+ Years** of hands-on experience in **MERN Stack Development**
-- 🔭 Personal project: **[LMS — Learning Management System](https://github.com/prakash116/IMS.git)**
-- ⚡ Skilled in **REST APIs, Redux, JWT Auth, and Responsive UI/UX**
-- 💬 Ask me about **MERN Stack, React Native, Redux, Express**
-- 📫 Reach me at: **prakashmanig000@gmail.com**
+I build responsive web products and cross-platform mobile apps from idea to release. My work covers frontend architecture, backend APIs, authentication, state management, database design, and polished user experiences.
 
----
+- 🔭 Currently building the **RestoCare Customer** and **Partner** apps
+- 🌱 Exploring scalable architecture, performance, and better developer experiences
+- 💬 Ask me about **React, React Native, Node.js, Express, MongoDB, or Redux**
+- ⚡ I enjoy turning complex workflows into simple, useful products
 
-## 💼 Current Work — RestoCare 🍽️
+## 🚀 What I do
 
-> Restaurant management ecosystem built at **Restro Edge Pvt. Ltd.**
+<table>
+<tr>
+<td width="33%" valign="top">
 
-| App | Platform | Role |
-|-----|----------|------|
-| 📱 **RestoCare Customer App** | Android & iOS (React Native) | App Developer |
-| 🤝 **RestoCare Partner App** | Android & iOS (React Native) | App Developer |
+### 🌐 Web
 
----
+Responsive, accessible interfaces with reusable components and thoughtful state management.
 
-## 🛠️ Tech Stack
+</td>
+<td width="33%" valign="top">
 
-### 🌐 Frontend
-<p align="left">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
+### 📱 Mobile
 
-### 📱 Mobile App Development
-<p align="left">
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
-</p>
+Cross-platform Android and iOS apps built with React Native and Expo.
+
+</td>
+<td width="33%" valign="top">
 
 ### ⚙️ Backend
-<p align="left">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
 
-### 🗄️ Database
-<p align="left">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
+Secure REST APIs, authentication, business logic, and database integrations.
 
-### 🧰 Tools & Platforms
-<p align="left">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+</td>
+</tr>
+</table>
 
----
-
-## 📊 GitHub Stats
+## 🧰 Technology toolbox
 
 <div align="center">
 
-[![Prakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakash116&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/prakash116)
+### Frontend & mobile
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakash116&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/prakash116)
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-0f172a?style=for-the-badge&logo=react&logoColor=22d3ee)
+![Redux](https://img.shields.io/badge/Redux-0f172a?style=for-the-badge&logo=redux&logoColor=9f7aea)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0f172a?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Expo](https://img.shields.io/badge/Expo-0f172a?style=for-the-badge&logo=expo&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prakash116&theme=tokyonight&hide_border=true)](https://github.com/prakash116)
+### Backend & data
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=prakash116&theme=tokyo-night&hide_border=true)](https://github.com/prakash116)
+![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-0f172a?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Mongoose](https://img.shields.io/badge/Mongoose-0f172a?style=for-the-badge&logo=mongoose&logoColor=F04D35)
+![Firebase](https://img.shields.io/badge/Firebase-0f172a?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![JWT](https://img.shields.io/badge/JWT-0f172a?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### Tools & delivery
+
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=22a7f2)
+![npm](https://img.shields.io/badge/npm-0f172a?style=for-the-badge&logo=npm&logoColor=CB3837)
+![Vercel](https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
+## 📊 GitHub activity
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=prakash116&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/prakash116)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=prakash116&show_icons=true&rank_icon=github&theme=transparent&title_color=22d3ee&text_color=cbd5e1&icon_color=06b6d4&border_color=164e63&hide_border=false" alt="Prakash's GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash116&layout=compact&langs_count=8&theme=transparent&title_color=22d3ee&text_color=cbd5e1&border_color=164e63&hide_border=false" alt="Prakash's most-used languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=prakash116&theme=transparent&hide_border=false&border=164E63&ring=06B6D4&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Prakash's contribution streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prakash116&bg_color=00000000&color=cbd5e1&line=06b6d4&point=22d3ee&area=true&area_color=164e63&hide_border=false&custom_title=Contribution%20Graph" alt="Prakash's contribution graph" />
 
 </div>
 
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/prakashmani87/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:prakashmanig000@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/prakash._mani/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/prakash.mani.98478672" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-</p>
-
----
+## 🤝 Let's connect
 
 <div align="center">
 
-### 💡 *"Code is like humor. When you have to explain it, it's bad."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prakash_Mani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakashmani87/)
+[![Gmail](https://img.shields.io/badge/Gmail-prakashmanig000-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakashmanig000@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-prakash._mani-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prakash._mani/)
+[![Facebook](https://img.shields.io/badge/Facebook-Prakash_Mani-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/prakash.mani.98478672)
 
-⭐ **From [Prakash Mani](https://github.com/prakash116)** — Feel free to explore my repos and connect!
+<br />
+
+### 💡 “First, solve the problem. Then, write the code.”
+
+Open to connecting, collaborating, and building useful products together.
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,55:0f172a,100:020617)
 
 </div>
