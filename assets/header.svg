@@ -1,0 +1,140 @@
+<svg width="1200" height="240" viewBox="0 0 1200 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Prakash Mani — Full-Stack &amp; Mobile App Developer</title>
+  <desc id="desc">Dark banner with the name Prakash Mani, the role Full-Stack and Mobile App Developer, and a small illustration of a browser window, a phone and an API card connected by a flowing data line.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset=".55" stop-color="#0B1120"/>
+      <stop offset="1" stop-color="#062A3A"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 120) scale(340 220)">
+      <stop stop-color="#22D3EE" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(120 0) scale(300 200)">
+      <stop stop-color="#0891B2" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#0891B2" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#0891B2"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.1" fill="#38BDF8" fill-opacity=".09"/>
+    </pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#020617" flood-opacity=".65"/>
+    </filter>
+    <clipPath id="frame"><rect width="1200" height="240" rx="20"/></clipPath>
+  </defs>
+
+  <!-- background -->
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="240" fill="url(#bg)"/>
+    <rect width="1200" height="240" fill="url(#dots)"/>
+    <rect width="1200" height="240" fill="url(#glow2)"/>
+    <rect width="1200" height="240" fill="url(#glow)">
+      <animate attributeName="opacity" values=".6;1;.6" dur="6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- text block -->
+  <g font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif">
+    <rect x="64" y="50" width="34" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="64" y="78" fill="#22D3EE" font-size="13" font-weight="700" letter-spacing="3.2">FULL-STACK &amp; MOBILE APP DEVELOPER</text>
+    <text x="61" y="134" fill="#F8FAFC" font-size="58" font-weight="800" letter-spacing="-1.2">Prakash Mani</text>
+    <text x="64" y="167" fill="#B6C2D4" font-size="18">Android, iOS &amp; web products, shipped end to end  ·  3+ years  ·  Delhi NCR, India</text>
+  </g>
+
+  <!-- headline stack chips -->
+  <g font-family="'Cascadia Code', 'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="12.5" fill="#A5F3FC">
+    <rect x="64" y="186" width="118" height="26" rx="13" fill="#0F172A" fill-opacity=".7" stroke="#1E3A4A"/>
+    <text x="123" y="203" text-anchor="middle">React Native</text>
+    <rect x="192" y="186" width="80" height="26" rx="13" fill="#0F172A" fill-opacity=".7" stroke="#1E3A4A"/>
+    <text x="232" y="203" text-anchor="middle">Next.js</text>
+    <rect x="282" y="186" width="102" height="26" rx="13" fill="#0F172A" fill-opacity=".7" stroke="#1E3A4A"/>
+    <text x="333" y="203" text-anchor="middle">TypeScript</text>
+    <rect x="394" y="186" width="74" height="26" rx="13" fill="#0F172A" fill-opacity=".7" stroke="#1E3A4A"/>
+    <text x="431" y="203" text-anchor="middle">NestJS</text>
+    <rect x="478" y="186" width="104" height="26" rx="13" fill="#0F172A" fill-opacity=".7" stroke="#1E3A4A"/>
+    <text x="530" y="203" text-anchor="middle">PostgreSQL</text>
+  </g>
+
+  <!-- illustration: data line (behind) -->
+  <path id="flow" d="M976 174 C1012 174 1028 208 1058 208 H1080 Q1094 208 1094 194" stroke="#22D3EE" stroke-opacity=".55" stroke-width="1.5" stroke-dasharray="5 7" stroke-linecap="round">
+    <animate attributeName="stroke-dashoffset" from="0" to="-48" dur="1.6s" repeatCount="indefinite"/>
+  </path>
+  <circle r="3" fill="#A5F3FC">
+    <animateMotion dur="2.4s" repeatCount="indefinite" rotate="0">
+      <mpath href="#flow"/>
+    </animateMotion>
+  </circle>
+
+  <!-- browser window -->
+  <g>
+    <rect x="866" y="44" width="200" height="130" rx="10" fill="#0F172A" fill-opacity=".94" stroke="#2A3A52" stroke-width="1.5"/>
+    <path d="M866 70H1066" stroke="#1E293B"/>
+    <circle cx="882" cy="57" r="3.5" fill="#F87171" fill-opacity=".9"/>
+    <circle cx="896" cy="57" r="3.5" fill="#FBBF24" fill-opacity=".9"/>
+    <circle cx="910" cy="57" r="3.5" fill="#34D399" fill-opacity=".9"/>
+    <rect x="926" y="50" width="128" height="14" rx="7" fill="#0B1120" stroke="#1E293B"/>
+    <text x="990" y="60" text-anchor="middle" font-family="'Cascadia Code', Consolas, monospace" font-size="8.5" fill="#64748B">restocare.in/admin</text>
+    <!-- sidebar -->
+    <rect x="878" y="82" width="42" height="80" rx="5" fill="#111A2C"/>
+    <rect x="886" y="92" width="26" height="4" rx="2" fill="#22D3EE" fill-opacity=".9"/>
+    <rect x="886" y="104" width="26" height="4" rx="2" fill="#243247"/>
+    <rect x="886" y="116" width="20" height="4" rx="2" fill="#243247"/>
+    <rect x="886" y="128" width="24" height="4" rx="2" fill="#243247"/>
+    <!-- main -->
+    <rect x="930" y="82" width="84" height="8" rx="3" fill="#243247"/>
+    <rect x="930" y="98" width="58" height="28" rx="5" fill="#0E2433" stroke="#164E63"/>
+    <rect x="938" y="106" width="22" height="5" rx="2" fill="#22D3EE"/>
+    <rect x="938" y="115" width="34" height="4" rx="2" fill="#1E293B"/>
+    <rect x="996" y="98" width="58" height="28" rx="5" fill="#0E2433" stroke="#164E63"/>
+    <polyline points="1003,120 1011,114 1019,117 1027,109 1035,112 1047,104" stroke="#22D3EE" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="930" y="132" width="124" height="30" rx="5" fill="#0E2433" stroke="#164E63"/>
+    <rect x="938" y="148" width="9" height="8" rx="1.5" fill="#0E7490"/>
+    <rect x="951" y="142" width="9" height="14" rx="1.5" fill="#0E7490"/>
+    <rect x="964" y="150" width="9" height="6" rx="1.5" fill="#0E7490"/>
+    <rect x="977" y="138" width="9" height="18" rx="1.5" fill="#0E7490"/>
+    <rect x="990" y="144" width="9" height="12" rx="1.5" fill="#0E7490"/>
+    <rect x="1003" y="136" width="9" height="20" rx="1.5" fill="#22D3EE">
+      <animate attributeName="opacity" values=".7;1;.7" dur="2.2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="1016" y="141" width="9" height="15" rx="1.5" fill="#0E7490"/>
+    <rect x="1029" y="146" width="9" height="10" rx="1.5" fill="#0E7490"/>
+  </g>
+
+  <!-- API card -->
+  <g filter="url(#shadow)">
+    <rect x="826" y="152" width="150" height="44" rx="9" fill="#0B1322" stroke="#2A3A52" stroke-width="1.5"/>
+    <circle cx="842" cy="174" r="4" fill="#34D399">
+      <animate attributeName="opacity" values=".35;1;.35" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="854" y="170" font-family="'Cascadia Code', Consolas, monospace" font-size="10.5" fill="#CBD5E1">GET /api/orders</text>
+    <text x="854" y="186" font-family="'Cascadia Code', Consolas, monospace" font-size="10" fill="#22D3EE">200 OK  ·  38 ms</text>
+  </g>
+
+  <!-- phone -->
+  <g filter="url(#shadow)">
+    <rect x="1054" y="38" width="80" height="156" rx="16" fill="#0B1120" stroke="#334155" stroke-width="1.5"/>
+    <rect x="1060" y="50" width="68" height="132" rx="11" fill="#0F172A"/>
+    <rect x="1082" y="45" width="24" height="5" rx="2.5" fill="#1E293B"/>
+    <rect x="1068" y="60" width="38" height="7" rx="3" fill="#243247"/>
+    <circle cx="1118" cy="63.5" r="4" fill="#22D3EE" fill-opacity=".85"/>
+    <rect x="1068" y="74" width="52" height="10" rx="5" fill="#111A2C" stroke="#1E293B"/>
+    <rect x="1068" y="92" width="52" height="24" rx="5" fill="#0E2433" stroke="#164E63"/>
+    <rect x="1074" y="98" width="20" height="4" rx="2" fill="#22D3EE"/>
+    <rect x="1074" y="106" width="34" height="4" rx="2" fill="#1E293B"/>
+    <rect x="1068" y="122" width="52" height="24" rx="5" fill="#0E2433" stroke="#164E63"/>
+    <rect x="1074" y="128" width="26" height="4" rx="2" fill="#243247"/>
+    <rect x="1074" y="136" width="30" height="4" rx="2" fill="#1E293B"/>
+    <rect x="1068" y="154" width="52" height="14" rx="7" fill="#22D3EE">
+      <animate attributeName="opacity" values=".75;1;.75" dur="2.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="1084" y="174" width="20" height="3" rx="1.5" fill="#334155"/>
+  </g>
+
+  <!-- frame -->
+  <rect x=".75" y=".75" width="1198.5" height="238.5" rx="19.25" stroke="#164E63" stroke-opacity=".9" stroke-width="1.5"/>
+</svg>
